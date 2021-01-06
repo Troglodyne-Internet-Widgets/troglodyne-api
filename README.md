@@ -36,7 +36,7 @@ This way whenever I make a new release you'll get it via `yum update` without an
 
 What do I do if I need help?
 ----------------------------
-Go check out our FAQ/KB page [here](https://troglodyne.net/troglodyne-api/).
+Hop on the Matrix Chat server for troglodyne. Instructions here: https://chat.troglodyne.net.
 If you can't find the answers you need, feel free to drop an issue in the tracker.
 
 ...and last of all, see license terms.
